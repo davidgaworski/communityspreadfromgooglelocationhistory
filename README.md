@@ -1,7 +1,7 @@
 # communityspreadfromgooglelocationhistory
 # Tracking Community Spread from Phone Location History
 
-![](notebook.png)
+![](symbolizedoutput.png)
 
 ## Installation
 
