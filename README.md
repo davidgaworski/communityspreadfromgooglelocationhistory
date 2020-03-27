@@ -1,5 +1,4 @@
-# communityspreadfromgooglelocationhistory
-# Tracking Community Spread from Phone Location History
+# Tracking Community Spread from Google Location History
 
 ![](symbolizedoutput.png)
 
