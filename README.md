@@ -18,7 +18,8 @@ from datetime import datetime
 from shapely.geometry import Point
 import pandas as pd
 import geopandas as gpd
-import matplotlib.pyplot as plt```
+import matplotlib.pyplot as plt
+```
 
 ## Meta
 
